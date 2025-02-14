@@ -5,7 +5,7 @@ import openpyxl
 
 # Configuración de conexión
 url = 'http://localhost:8269'  # URL del servidor Odoo
-dbname = 'pos_name_TEST'  # Nombre de la base de datos
+dbname = 'db_name'  # Nombre de la base de datos
 user = 'admin'  # Usuario de Odoo
 pwd = 'admin'  # Contraseña del usuario de Odoo
 

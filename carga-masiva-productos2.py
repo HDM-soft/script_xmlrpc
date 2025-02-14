@@ -4,10 +4,10 @@ from xmlrpc import client
 import openpyxl
 
 # Configuración de conexión
-url = "https://root-odoo-replica-acero-solaro-devops.odoo.com"
-dbname = "root-odoo-replica-acero-solaro-devops-main-18099096"
-user = "admin"
-pwd = "solaro@betech1234"
+url = ""
+dbname = ""
+user = ""
+pwd = ""
 
 # Autenticación con Odoo
 common = client.ServerProxy(f"{url}/xmlrpc/2/common")
